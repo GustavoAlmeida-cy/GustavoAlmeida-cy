@@ -25,11 +25,9 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|------------|
-| [**Meu Portfólio**](https://github.com/GustavoAlmeida-cy/portfolio) | React, Next.js, Tailwind | Página pessoal com design moderno, responsivo e dark mode |
-| [**API de Clima**](https://github.com/GustavoAlmeida-cy/weather-api) | Node.js, Express, Axios | API REST que consome dados climáticos e retorna previsões por cidade |
-| [**ToDo App**](https://github.com/GustavoAlmeida-cy/todo-app) | React, TypeScript | Aplicativo de tarefas com filtros, temas e persistência local |
-
-> 💡 Dica: use `README.md` com GIFs, badges e preview para destacar seus repositórios
+| [**Study**](https://github.com/GustavoAlmeida-cy/study-project) | React, Next.js, Tailwind, Typescript | Projeto educacional, responsivo e dark mode |
+| [**Binary Calc.**](https://github.com/GustavoAlmeida-cy/Binary-Calculator-Python) | Python, Rich | Calculadora de números binários escrita em Python |
+| [**Miv Kod**](https://github.com/GustavoAlmeida-cy/Miv_Kod) | HTML, CSS, JS | Gato desenhado em CSS animado e interativo |
 
 ---
 
