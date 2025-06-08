@@ -26,7 +26,7 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|------------|
 | [**Study**](https://github.com/GustavoAlmeida-cy/study-project) | React, Next.js, Tailwind, Typescript | Projeto educacional, responsivo e dark mode |
-| [**Binary Calc.**](https://github.com/GustavoAlmeida-cy/Binary-Calculator-Python) | Python, Rich | Calculadora de números binários escrita em Python |
+| [**Binary Calculator**](https://github.com/GustavoAlmeida-cy/Binary-Calculator-Python) | Python, Rich | Calculadora de números binários escrita em Python |
 | [**Miv Kod**](https://github.com/GustavoAlmeida-cy/Miv_Kod) | HTML, CSS, JS | Gato desenhado em CSS animado e interativo |
 
 ---
