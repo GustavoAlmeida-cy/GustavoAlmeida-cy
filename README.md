@@ -25,6 +25,7 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
 
 | Projeto | Tecnologias | Descrição |
 |--------|-------------|------------|
+| [**Memory Game**](https://github.com/GustavoAlmeida-cy/memory-game) | React, Next.js, Tailwind, Typescript | Jogo da memória feito em Next.js, Typescript e Tailwind |
 | [**Study**](https://github.com/GustavoAlmeida-cy/study-project) | React, Next.js, Tailwind, Typescript | Projeto educacional feito em Next.js |
 | [**Binary Calculator**](https://github.com/GustavoAlmeida-cy/Binary-Calculator-Python) | Python, Rich | Calculadora de números binários escrita em Python |
 | [**Matrixfy**](https://github.com/GustavoAlmeida-cy/Matrixfy) | HTML, CSS, JS, p5.js | Matrixfy converte imagens e vídeo em arte ASCII |
