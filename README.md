@@ -2,7 +2,8 @@
 
 Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre buscando criar aplicações modernas, performáticas e com ótimo design. Tenho experiência com tecnologias de front-end e back-end, e adoro aprender coisas novas todos os dias.
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
 
 ### 🚀 Tecnologias que venho estudando e utilizando:
 
@@ -19,7 +20,8 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
   <img alt="Java" title="Java" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 </div>
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
 
 ### 🌟 Projetos em Destaque
 
@@ -31,7 +33,8 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
 | [**Matrixfy**](https://github.com/GustavoAlmeida-cy/Matrixfy) | HTML, CSS, JS, p5.js | Matrixfy converte imagens e vídeo em arte ASCII |
 | [**Miv Kod**](https://github.com/GustavoAlmeida-cy/Miv_Kod) | HTML, CSS, JS | Um gatinho animado e interativo |
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
 
 ### 📊 GitHub Stats
 
@@ -40,7 +43,8 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlmeida-cy&layout=compact&langs_count=10&theme=radical"/>
 </div>
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
 
 ### 📫 Contato
 
@@ -48,7 +52,8 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 
----
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
 
 ### 🐍 Snake Contribution Animation
 
