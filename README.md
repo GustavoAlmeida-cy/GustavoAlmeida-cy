@@ -4,6 +4,8 @@
 
 Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre buscando criar aplicações modernas, performáticas e com ótimo design. Tenho experiência com tecnologias de front-end e back-end, e adoro aprender coisas novas todos os dias.
 
+<br/>
+
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" > 
 
@@ -70,11 +72,11 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
 <!--Line-->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
 
-<h1>📊 GitHub Stats</h1>
+<h1>⚙️ GitHub Stats</h1>
 <br/>
 
 <div align="center">
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&preferLogin=false&Background=0D1117&Text=FFFFFF&Ring=4492F8&Title=4492F8">    <img  alt="GustavoAlmeida-cy's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/GustavoAlmeida-cy?cardType=github&theme=ocean-dark&preferLogin=false&Background=0D1117&Text=FFFFFF&Ring=4492F8&Title=4492F8" />  </a>
+  <img  alt="GustavoAlmeida-cy's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/GustavoAlmeida-cy?cardType=github&theme=ocean-dark&preferLogin=false&Background=0D1117&Text=FFFFFF&Ring=4492F8&Title=4492F8" />
 </div>
 
 <h1>📫 Contato</h1>
@@ -83,6 +85,8 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
 <a href="mailto:gustavo.almeida.cy@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
+
+<br/>
 
 <h1>🐍 Snake Contribution Animation</h1>
 <br/>
