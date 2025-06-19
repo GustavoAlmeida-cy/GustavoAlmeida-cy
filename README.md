@@ -20,9 +20,6 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
   <img alt="Java" title="Java" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 </div>
 
-<!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
-
 ### 🌟 Projetos em Destaque
 
 | Projeto | Tecnologias | Descrição |
@@ -39,12 +36,8 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GustavoAlmeida-cy&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAlmeida-cy&layout=compact&langs_count=10&theme=dark"/>
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=ocean-dark&preferLogin=false&Background=0D1117&Text=FFFFFF&Ring=4492F8&Title=4492F8">    <img  alt="GustavoAlmeida-cy's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/GustavoAlmeida-cy?cardType=github&theme=ocean-dark&preferLogin=false&Background=0D1117&Text=FFFFFF&Ring=4492F8&Title=4492F8" />  </a>
 </div>
-
-<!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
 
 ### 📫 Contato
 
@@ -52,9 +45,9 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
 
-<!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
-
 ### 🐍 Snake Contribution Animation
 
 ![Snake animation](https://github.com/GustavoAlmeida-cy/GustavoAlmeida-cy/blob/output/github-contribution-grid-snake.svg)
+
+<!--Line-->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
