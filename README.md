@@ -1,13 +1,13 @@
-### 👋 Olá! Seja bem-vindo(a) ao meu perfil
+### <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Olá! Seja bem-vindo(a) ao meu perfil
 
 Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre buscando criar aplicações modernas, performáticas e com ótimo design. Tenho experiência com tecnologias de front-end e back-end, e adoro aprender coisas novas todos os dias.
 
 <!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" > 
 
 ### 🚀 Tecnologias que venho estudando e utilizando:
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-top: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center; margin-top: 10px; margin-bottom: 10px;">
     <img alt="Linux" title="Linux" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
     <img alt="HTML" title="HTML5" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img alt="CSS" title="CSS3" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
