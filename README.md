@@ -3,12 +3,10 @@
 <br/>
 
 Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre buscando criar aplicações modernas, performáticas e com ótimo design. Tenho experiência com tecnologias de front-end e back-end, e adoro aprender coisas novas todos os dias.
-
 <br/>
 
 <!--Line-->
 <img src="./images/animated_blue_bar.gif" width="1200" > 
-<br/><br/>
 
 <h1>🚀 Tecnologias que venho estudando e utilizando:</h1>
 <br/>
@@ -72,7 +70,6 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
 
 <!--Line-->
 <img src="./images/animated_blue_bar.gif" width="1200"> 
-<br/><br/>
 
 <h1>⚙️ GitHub Stats</h1>
 <br/>
