@@ -7,7 +7,8 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
 <br/>
 
 <!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200" > 
+<img src="./images/animated_blue_bar.gif" width="1200" > 
+<br/><br/>
 
 <h1>🚀 Tecnologias que venho estudando e utilizando:</h1>
 <br/>
@@ -24,7 +25,7 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
   <img alt="Python" title="Python" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
   <img alt="Java" title="Java" height="40" style="transition: transform 0.2s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
 </div>
-<br/>
+<br/><br/>
 
 <h1>🌟 Projetos em Destaque</h1>
 <br/>
@@ -67,10 +68,11 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
       </tbody>
     </table>
 </div>
-
+<br/>
 
 <!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
+<img src="./images/animated_blue_bar.gif" width="1200"> 
+<br/><br/>
 
 <h1>⚙️ GitHub Stats</h1>
 <br/>
@@ -78,6 +80,7 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
 <div align="center">
   <img  alt="GustavoAlmeida-cy's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/GustavoAlmeida-cy?cardType=github&theme=ocean-dark&preferLogin=false&Background=0D1117&Text=FFFFFF&Ring=4492F8&Title=4492F8" />
 </div>
+<br/>
 
 <h1>📫 Contato</h1>
 <br/>
@@ -94,4 +97,4 @@ Sou estudante de **Desenvolvimento Web** e estou em constante evolução, sempre
 ![Snake animation](https://github.com/GustavoAlmeida-cy/GustavoAlmeida-cy/blob/output/github-contribution-grid-snake.svg)
 
 <!--Line-->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
+<img src="./images/animated_blue_bar.gif" width="1200"> 
