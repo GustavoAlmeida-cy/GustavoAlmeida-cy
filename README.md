@@ -3,15 +3,15 @@
 <br/>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="150"/>
-  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="150"/>
-  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="150"/>
+  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="120"/>
+  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="120"/>
+  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="120"/>
 </div>
 <br/>
 
-Sou estudante de **Desenvolvimento Web** em constante evolução, sempre explorando novas ferramentas, frameworks e abordagens que me permitam criar aplicações eficientes, responsivas e visualmente atraentes. Tenho experiência tanto no front-end, construindo interfaces intuitivas e interativas, quanto no back-end, estruturando soluções robustas e escaláveis.
+<p>Sou estudante de <strong>Desenvolvimento Web</strong> em constante evolução, sempre explorando novas ferramentas, frameworks e abordagens que me permitam criar aplicações eficientes, responsivas e visualmente atraentes. Tenho experiência tanto no front-end, construindo interfaces intuitivas e interativas, quanto no back-end, estruturando soluções robustas e escaláveis.</p>
 
-Além disso, tenho um forte compromisso com boas práticas de código, acessibilidade e performance. Gosto de enfrentar desafios, entender o funcionamento das tecnologias por trás das interfaces e transformar ideias em experiências digitais completas. Aprender algo novo todos os dias é parte essencial da minha jornada.
+<p>Além disso, tenho um forte compromisso com boas práticas de código, acessibilidade e performance. Gosto de enfrentar desafios, entender o funcionamento das tecnologias por trás das interfaces e transformar ideias em experiências digitais completas. Aprender algo novo todos os dias é parte essencial da minha jornada.</p>
 
 
 <br/>
@@ -90,19 +90,19 @@ Além disso, tenho um forte compromisso com boas práticas de código, acessibil
   <img
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZidnNmZ2lzNzI3YmQ2NzNqbmpvZ2U3Z2k3bnVsNHE5cjVuM2VqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SOrriiX6kX6UBMZzbt/giphy.gif"
     alt="Tech animation"
-    width="80"
+    width="120"
     style="display: inline-block; margin: 10px;"
   />
     <img
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZidnNmZ2lzNzI3YmQ2NzNqbmpvZ2U3Z2k3bnVsNHE5cjVuM2VqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SOrriiX6kX6UBMZzbt/giphy.gif"
     alt="Tech animation"
-    width="80"
+    width="120"
     style="display: inline-block; margin: 10px;"
   />
     <img
     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZidnNmZ2lzNzI3YmQ2NzNqbmpvZ2U3Z2k3bnVsNHE5cjVuM2VqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SOrriiX6kX6UBMZzbt/giphy.gif"
     alt="Tech animation"
-    width="80"
+    width="120"
     style="display: inline-block; margin: 10px;"
   />
   <br/><br/>
