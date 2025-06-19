@@ -4,6 +4,8 @@
 
 <div align="center">
   <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="150"/>
+  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="150"/>
+  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="150"/>
 </div>
 <br/>
 
