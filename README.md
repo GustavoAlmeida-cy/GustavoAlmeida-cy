@@ -83,7 +83,7 @@
 <img src="./images/animated_blue_bar.gif" width="1200"> 
 
 <h1>⚙️ GitHub Stats</h1>
-<br/>
+<br/><br/>
 
 
 <div align="center">
