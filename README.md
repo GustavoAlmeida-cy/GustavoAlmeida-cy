@@ -88,26 +88,6 @@
 
 <div align="center">
   <img
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZidnNmZ2lzNzI3YmQ2NzNqbmpvZ2U3Z2k3bnVsNHE5cjVuM2VqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SOrriiX6kX6UBMZzbt/giphy.gif"
-    alt="Tech animation"
-    width="120"
-    style="display: inline-block; margin: 10px;"
-  />
-    <img
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZidnNmZ2lzNzI3YmQ2NzNqbmpvZ2U3Z2k3bnVsNHE5cjVuM2VqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SOrriiX6kX6UBMZzbt/giphy.gif"
-    alt="Tech animation"
-    width="120"
-    style="display: inline-block; margin: 10px;"
-  />
-    <img
-    src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZidnNmZ2lzNzI3YmQ2NzNqbmpvZ2U3Z2k3bnVsNHE5cjVuM2VqayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SOrriiX6kX6UBMZzbt/giphy.gif"
-    alt="Tech animation"
-    width="120"
-    style="display: inline-block; margin: 10px;"
-  />
-  <br/><br/>
-
-  <img
     alt="GustavoAlmeida-cy's GitHub Stats"
     src="https://awesome-github-stats.azurewebsites.net/user-stats/GustavoAlmeida-cy?cardType=github&theme=ocean-dark&preferLogin=false&Background=0D1117&Text=FFFFFF&Ring=4492F8&Title=4492F8"
     style="display: inline-block; margin: 0 10px;"
