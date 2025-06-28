@@ -3,7 +3,7 @@
 <br/>
 
 <div align="center">
-  <img src="./images/cover.png" alt="Imagem de capa representando desenvolvimento web" loading="lazy"/>
+  <img src="./images/cover.png" alt="Imagem de capa representando desenvolvimento web" loading="lazy" width="800"/>
 </div>
 <br/>
 
