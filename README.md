@@ -3,17 +3,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="120"/>
-  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="120"/>
-  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="120"/>
+  <img src="./images/cover.png" alt="Imagem de capa representando desenvolvimento web" loading="lazy"/>
 </div>
 <br/>
 
 <p>Sou estudante de <strong>Desenvolvimento Web</strong> em constante evolução, sempre explorando novas ferramentas, frameworks e abordagens que me permitam criar aplicações eficientes, responsivas e visualmente atraentes. Tenho experiência tanto no front-end, construindo interfaces intuitivas e interativas, quanto no back-end, estruturando soluções robustas e escaláveis.</p>
 
 <p>Além disso, tenho um forte compromisso com boas práticas de código, acessibilidade e performance. Gosto de enfrentar desafios, entender o funcionamento das tecnologias por trás das interfaces e transformar ideias em experiências digitais completas. Aprender algo novo todos os dias é parte essencial da minha jornada.</p>
-
-
 <br/>
 
 <!--Line-->
@@ -27,6 +23,7 @@
   <!-- Básico / Web -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -63,8 +60,16 @@
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT/OpenAI" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
+<br/><br/>
 
 <h1>🌟 Projetos em Destaque</h1>
+<br/>
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="120"/>
+  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="120"/>
+  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="120"/>
+</div>
 <br/>
 
 <div align="center">
@@ -127,8 +132,12 @@
 <h1>📫 Contato</h1>
 <br/>
 
-<a href="mailto:gustavo.almeida.cy@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+<a href="mailto:gustavo.almeida.cy@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <br/>
