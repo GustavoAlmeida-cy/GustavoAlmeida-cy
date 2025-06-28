@@ -62,6 +62,19 @@
 </div>
 <br/><br/>
 
+<h1>📫 Contato</h1>
+<br/>
+
+<a href="mailto:gustavo.almeida.cy@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<br/>
+
 <h1>🌟 Projetos em Destaque</h1>
 <br/>
 
@@ -126,19 +139,6 @@
     style="display: inline-block; margin: 0 10px;"
   />
 </div>
-
-<br/>
-
-<h1>📫 Contato</h1>
-<br/>
-
-<a href="mailto:gustavo.almeida.cy@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
 
 <br/>
 
