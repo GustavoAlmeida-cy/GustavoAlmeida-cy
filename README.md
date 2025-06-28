@@ -1,4 +1,4 @@
-<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Olá! Seja bem-vindo(a) ao meu perfil
+<h1><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Olá! Seja bem-vindo ao meu perfil
 </h1>
 <br/>
 
@@ -63,8 +63,6 @@
   <img src="https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT/OpenAI" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
-
-<br/><br/>
 
 <h1>🌟 Projetos em Destaque</h1>
 <br/>
