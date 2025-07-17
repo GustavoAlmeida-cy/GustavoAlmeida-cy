@@ -74,13 +74,6 @@
 <br/>
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="120"/>
-  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="120"/>
-  <img src="https://media3.giphy.com/media/UvPvsX9oMlMWs/giphy.gif" alt="Tech animation" width="120"/>
-</div>
-<br/>
-
-<div align="center">
     <table>
       <thead>
         <tr>
