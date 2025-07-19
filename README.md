@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 
   <!-- Dev Tools -->
@@ -57,6 +56,14 @@
 </div>
 <br/><br/>
 
+## Demonstration
+
+| Link to my portfolio: [https://gustavo-almeida-portfolio.vercel.app](https://gustavo-almeida-portfolio.vercel.app)
+
+![Portfolio Demo](./images/portfolio.png)  
+
+---
+
 <h1>📫 Contato</h1>
 <br/>
 
@@ -64,7 +71,7 @@
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/gustavo-almeida-cy/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
