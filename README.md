@@ -10,7 +10,19 @@
 <p>Sou estudante de <strong>Desenvolvimento Web</strong> em constante evolução, sempre explorando novas ferramentas, frameworks e abordagens que me permitam criar aplicações eficientes, responsivas e visualmente atraentes. Tenho experiência tanto no front-end, construindo interfaces intuitivas e interativas, quanto no back-end, estruturando soluções robustas e escaláveis.</p>
 
 <p>Além disso, tenho um forte compromisso com boas práticas de código, acessibilidade e performance. Gosto de enfrentar desafios, entender o funcionamento das tecnologias por trás das interfaces e transformar ideias em experiências digitais completas. Aprender algo novo todos os dias é parte essencial da minha jornada.</p>
+
+<h1>📫 Contato</h1>
 <br/>
+
+<a href="mailto:gustavo.almeida.cy@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+<a href="https://www.linkedin.com/in/gustavo-almeida-cy/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<br/><br/>
 
 <!--Line-->
 <img src="./images/animated_blue_bar.gif" width="1200" > 
@@ -63,19 +75,6 @@
 ![Portfolio Demo](./images/portfolio.png)  
 
 ---
-
-<h1>📫 Contato</h1>
-<br/>
-
-<a href="mailto:gustavo.almeida.cy@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-
-<a href="https://www.linkedin.com/in/gustavo-almeida-cy/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<br/>
 
 <h1>🌟 Projetos em Destaque</h1>
 <br/>
