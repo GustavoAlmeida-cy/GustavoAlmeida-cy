@@ -12,7 +12,6 @@
 <p>Além disso, tenho um forte compromisso com boas práticas de código, acessibilidade e performance. Gosto de enfrentar desafios, entender o funcionamento das tecnologias por trás das interfaces e transformar ideias em experiências digitais completas. Aprender algo novo todos os dias é parte essencial da minha jornada.</p>
 
 <h1>📫 Contato</h1>
-<br/>
 
 <a href="mailto:gustavo.almeida.cy@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
